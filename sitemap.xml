@@ -51,13 +51,6 @@
   </url>
   
   <url>
-    <loc>https://aymincoder.github.io/2021/04/10/vue%E5%AE%9E%E7%8E%B0%E6%8A%BD%E5%A5%96%E8%80%81%E8%99%8E%E6%9C%BA/</loc>
-    
-    <lastmod>2021-04-10</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://aymincoder.github.io/2021/03/31/%E5%BE%AE%E5%89%8D%E7%AB%AF/</loc>
     
     <lastmod>2021-04-10</lastmod>
@@ -102,14 +95,14 @@
   </url>
   
   <url>
-    <loc>https://aymincoder.github.io/tags/vue/</loc>
+    <loc>https://aymincoder.github.io/tags/HTTP/</loc>
     <lastmod>2022-01-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://aymincoder.github.io/tags/HTTP/</loc>
+    <loc>https://aymincoder.github.io/tags/vue/</loc>
     <lastmod>2022-01-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
