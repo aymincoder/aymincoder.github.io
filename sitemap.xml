@@ -88,6 +88,13 @@
   </url>
   
   <url>
+    <loc>https://aymincoder.github.io/tags/vue/</loc>
+    <lastmod>2022-01-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://aymincoder.github.io/tags/Javascipt/</loc>
     <lastmod>2022-01-04</lastmod>
     <changefreq>daily</changefreq>
@@ -96,13 +103,6 @@
   
   <url>
     <loc>https://aymincoder.github.io/tags/HTTP/</loc>
-    <lastmod>2022-01-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://aymincoder.github.io/tags/vue/</loc>
     <lastmod>2022-01-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
