@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://aymincoder.github.io/2022/01/04/JS%E5%85%AB%E8%82%A1%E6%96%87%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A/</loc>
+    
+    <lastmod>2022-01-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://aymincoder.github.io/2021/03/17/javaScript%E7%9A%84%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/</loc>
     
     <lastmod>2022-01-04</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://aymincoder.github.io/2022/01/03/%E5%89%8D%E7%AB%AF%E5%8A%A8%E7%94%BB%E7%9A%84%E5%87%A0%E7%A7%8D%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%A1%88/</loc>
-    
-    <lastmod>2022-01-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://aymincoder.github.io/2022/01/04/JS%E5%85%AB%E8%82%A1%E6%96%87%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A/</loc>
     
     <lastmod>2022-01-04</lastmod>
     
@@ -94,7 +94,7 @@
 
   <url>
     <loc>https://aymincoder.github.io/</loc>
-    <lastmod>2022-01-04</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,49 +102,49 @@
   
   <url>
     <loc>https://aymincoder.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2022-01-04</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://aymincoder.github.io/tags/vue/</loc>
-    <lastmod>2022-01-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://aymincoder.github.io/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
-    <lastmod>2022-01-04</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://aymincoder.github.io/tags/Javascipt/</loc>
-    <lastmod>2022-01-04</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://aymincoder.github.io/tags/HTTP/</loc>
-    <lastmod>2022-01-04</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://aymincoder.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
-    <lastmod>2022-01-04</lastmod>
+    <lastmod>2022-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://aymincoder.github.io/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://aymincoder.github.io/tags/%E5%BE%AE%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2022-01-04</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -153,21 +153,21 @@
   
   <url>
     <loc>https://aymincoder.github.io/categories/web%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2022-01-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://aymincoder.github.io/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
-    <lastmod>2022-01-04</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://aymincoder.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2022-01-04</lastmod>
+    <lastmod>2022-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://aymincoder.github.io/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
